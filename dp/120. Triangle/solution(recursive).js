@@ -13,5 +13,3 @@ var minimumTotal = function (triangle, row = 0, col = 0, memo = {}) {
   memo[index] = res
   return res
 }
-
-console.log(minimumTotal([[-10]]))

@@ -13,5 +13,3 @@ var climbStairs = function (n) {
 
   return result[n]
 }
-
-console.log(climbStairs(45))
