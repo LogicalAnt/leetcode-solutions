@@ -1,0 +1,22 @@
+{
+  "name": "leetcode-solutions",
+  "version": "1.0.0",
+  "description": "Leetcode solutions and ideas through animation: Record of my Leetcode journey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LogicalAnt/leetcode-solutions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LogicalAnt/leetcode-solutions/issues"
+  },
+  "homepage": "https://github.com/LogicalAnt/leetcode-solutions#readme",
+  "devDependencies": {
+    "eslint": "^8.22.0"
+  }
+}
